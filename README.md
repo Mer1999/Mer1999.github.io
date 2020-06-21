@@ -1,3 +1,9 @@
+#欢迎来到Mer的个人博客~
+嘛，期末就是不想学习，觉得除了学校学的一切都是这么有意思hh，所以就心血来潮搞了这个博客，等假期再慢慢填充吧
+##随便放点东西吧
+这是我做的数据库课设，是一个背单词网站，可以去逛一逛
+[Link]http://112.124.30.135/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mer1999/Mer1999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
